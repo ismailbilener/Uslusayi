@@ -1,0 +1,2 @@
+# Uslusayi
+Üslü sayı hesaplama
